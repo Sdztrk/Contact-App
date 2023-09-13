@@ -5,7 +5,7 @@
 
 ## Introduction
 
-The Contact Manager App is a simple web application built using React, Material UI and Axios for managing contacts. It allows users to add, edit, and delete contact information such as name, phone number, and gender. This README provides an overview of the application, its features, and instructions for running and deploying it.
+The Contact Manager App is a simple web application built using React, Material UI and Axios for managing contacts. It allows users to add, edit, and delete contact information such as name, phone number, and gender
 
 ## Features
 
